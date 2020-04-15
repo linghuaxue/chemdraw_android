@@ -15,9 +15,10 @@
 #### 开发语言 python
 #### 主要方便QSAR等计算化学、环境化学的演算支持
 
-![avatar](https://github.com/linghuaxue/chemdraw_android/blob/master/images/2020_04_13_11_02_50.gif)
+### 演示
+![avatar](images/2020_04_13_11_02_50.gif)
 
-讨论群
-![avatar](https://github.com/linghuaxue/chemdraw_android/blob/master/images/QQ.png)
+### 讨论群
+![avatar](images/QQ.png)
 
 **祝大家一切都好。**
