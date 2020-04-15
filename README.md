@@ -17,4 +17,7 @@
 
 ![avatar](https://github.com/linghuaxue/chemdraw_android/blob/master/images/2020_04_13_11_02_50.gif)
 
+讨论群
+![avatar](https://github.com/linghuaxue/chemdraw_android/blob/master/images/QQ.png)
+
 **祝大家一切都好。**
