@@ -16,9 +16,9 @@
 #### 主要方便QSAR等计算化学、环境化学的演算支持
 
 ### 演示
-![avatar](https://github.com/linghuaxue/chemdraw_android/raw/master/images/2020_04_13_11_02_50.gif)
+![avatar](./images/sample.gif)
 
 ### 讨论群
-![avatar](https://github.com/linghuaxue/chemdraw_android/raw/master/images/2020_04_13_11_02_50.gif)
+![avatar](./images/QQ.png)
 
 **祝大家一切都好。**
